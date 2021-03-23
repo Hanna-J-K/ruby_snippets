@@ -15,7 +15,7 @@ puts "Exercise example: "
 puts substrings("Below", dictionary)
 puts substrings("Howdy partner, sit down! How's it going?", dictionary)
 
-# user input
+# user
 puts "Now enter your own string! Go ahead:"
 user_string = gets.chomp
 puts "Let's compare your string to the dictionary!"
