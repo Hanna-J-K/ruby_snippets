@@ -1,1 +1,1 @@
-# odinruby
+# ruby practice snippets
